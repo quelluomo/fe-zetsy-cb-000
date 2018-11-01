@@ -20,6 +20,11 @@ body {
 	padding: 0 45px 20px;
 }
 
+* {
+  padding: 0;
+  margin: 0;
+}
+
 /* Write all remaining styles here */
 
 h1 {

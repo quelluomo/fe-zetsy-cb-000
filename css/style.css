@@ -31,7 +31,7 @@ h1 {
 	margin: 0 0 5px;
 }
 h1 a:hover {
-	border: 5px rgb(111,127,122) solid;
+	color: 5px rgb(111,127,122) solid;
 }
 
 h2 {

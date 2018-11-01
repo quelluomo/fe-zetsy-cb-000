@@ -23,7 +23,7 @@ body {
 /* Write all remaining styles here */
 
 h1 {
-	font-family: "Baskerville", Arial, serif;
+	font: "Baskerville", Arial, serif;
 	font-size: 5em;
   color: rgb(152,173,166);
 

@@ -32,7 +32,7 @@ h1 {
 	margin: 0 0 5px;
 }
 .ritzy:hover {
-	border: 5px rgb(111,127,122) solid;
+	text: 5px rgb(111,127,122) solid;
 
 h2 {
 	color: rgb(111,127,122);

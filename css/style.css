@@ -25,12 +25,18 @@ body {
 h1 a {
 	font-family: "Baskerville", Arial, serif;
 	font-size: 5em;
-	color: rgb(152,173,166);
+
 	border-bottom: 1px rgb(152,173,166) solid;
 	padding-bottom: 10px;
 	margin: 0 0 5px;
+
+}
+
+header {
+  color: rgb(152,173,166);
   text-decoration: none;
 }
+
 header a:hover {
 	color: rgb(111,127,122);
 }

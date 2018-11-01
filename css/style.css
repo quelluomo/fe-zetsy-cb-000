@@ -60,6 +60,7 @@ footer {
 .boxes img {
   border: 5px rgb(204,204,204) solid;
   margin: 25px 0 25px;
+  padding: 1px;
 }
 .boxes img:hover {
 	border: 5px rgb(111,127,122) solid;

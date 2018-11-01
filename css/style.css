@@ -22,7 +22,7 @@ body {
 
 /* Write all remaining styles here */
 
-h1 {
+h1 a {
 	font: bold 5em "Baskerville", serif;
   color: rgb(152,173,166);
 	border-bottom: 1px rgb(152,173,166) solid;

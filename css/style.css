@@ -31,8 +31,8 @@ h1 {
 	padding-bottom: 10px;
 	margin: 0 0 5px;
 }
-.ritzy:hover {
-	color: 5px rgb(111,127,122) solid;
+h1:hover {
+	text-decoration-color: 5px rgb(111,127,122) solid;
 
 h2 {
 	color: rgb(111,127,122);
